@@ -2,6 +2,8 @@
 Simple Gazebo World that makes use of Model Editor, Building Editor, and C++ Plugins. 
 This repo builds on top of [Udacity RoboND-myrobot repository](https://github.com/udacity/RoboND-myrobot)
 
+![alt text](README_images/WorldCapture.JPG)
+
 ### Directory Structure
 ```
 	.GazeboProject
@@ -61,8 +63,8 @@ $ gazebo myworld
 ### Output
 #### Model Editor
 - In gazebo under Edit click on Model Editor.
-- Design your robot model, e.g, [model editor tutorial](http://gazebosim.org/tutorials?tut=model_editor)
-- Save your robot model under the model folder 
+- Design your robot model, e.g, [model editor tutorial](http://gazebosim.org/tutorials?tut=model_editor).
+- Save your robot model under the model folder.
 - Exit the editor. 
 
 In this repo the model will be a two-wheeled robot.
@@ -71,8 +73,8 @@ In this repo the model will be a two-wheeled robot.
 
 #### Building Editor
 - In gazebo under Edit click on Building Editor.
-- Design your building model, e.g, [building editor tutorial](http://gazebosim.org/tutorials?cat=build_world&tut=building_editor)
-- Save your building model under the model folder 
+- Design your building model, e.g, [building editor tutorial](http://gazebosim.org/tutorials?cat=build_world&tut=building_editor).
+- Save your building model under the model folder .
 - Exit the editor. 
 
 In this repo the model will be a one floor infrastructure.
@@ -83,11 +85,11 @@ In this repo the model will be a one floor infrastructure.
 - In gazebo at the side panel click on tab Insert.
 - Include the models previously built through the editors. (if not there already) 
 - Include gazebo built-in models to make your world even cooler.
-- Save the World
+- Save the World.
 
 ![alt text](README_images/WorldCapture.JPG)
 
-This is the list of all models included. Note that a number is displayed when the more than one instance is included.
+This is the list of all models included. Note that a number is displayed when more than one instance is included.
 ![alt text](README_images/ModelList.JPG)
 
 #### Plug-in
